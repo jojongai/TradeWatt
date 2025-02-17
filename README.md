@@ -1,4 +1,4 @@
-# MSCI_446_Project
+# TradeWatt
 
 This Repository is dedicated to the development and completion of MSCI 446's (Intro to Machine Learning) course project.
 
